@@ -13,3 +13,9 @@ npm install localtunnel -g
 
 lt --port 3000
 lt --port 3000 --subdomain dawson
+
+
+npm start
+npm test
+
+
