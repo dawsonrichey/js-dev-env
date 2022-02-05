@@ -24,3 +24,5 @@ babel
 
 webpack bundler
 
+npm install 
+eslint-watch
