@@ -24,5 +24,10 @@ babel
 
 webpack bundler
 
-npm install 
-eslint-watch
+ eslint-watch
+
+npm run lint
+
+
+removing 
+    "start": "babel-node buildScripts/srcServer.js",
