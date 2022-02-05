@@ -31,3 +31,4 @@ npm run lint
 
 removing 
     "start": "babel-node buildScripts/srcServer.js",
+    "start": "npm-run-all --parallel security-check open:src lint:watch test:watch",
